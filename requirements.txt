@@ -1,0 +1,8 @@
+# YouTube评论下载工具依赖包
+requests>=2.25.0
+dateparser>=1.2.0
+selenium>=4.0.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+webdriver-manager>=4.0.0
+pandas>=2.0.0
